@@ -1,6 +1,7 @@
 {
 	"bold_folder_labels": true,
 	"caret_style": "blink",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
 	"detect_indentation": false,
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
@@ -24,7 +25,7 @@
 		"*.egg-info"
 	],
 	"font_face": "Source Code Pro ExtraLight",
-	"font_size": 15.0,
+	"font_size": 14.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
@@ -39,8 +40,10 @@
 		79,
 		119
 	],
+	"soda_folder_icons": true,
 	"tab_size": 4,
 	"tab_width": 4,
+	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false
