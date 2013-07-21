@@ -22,7 +22,8 @@
 		"wp-admin",
 		"wp-includes",
 		"tmp",
-		"*.egg-info"
+		"*.egg-info",
+		"node_modules"
 	],
 	"font_face": "Source Code Pro ExtraLight",
 	"font_size": 14.0,
@@ -43,7 +44,8 @@
 	"soda_folder_icons": true,
 	"tab_size": 4,
 	"tab_width": 4,
-	"theme": "Soda Dark.sublime-theme",
+	"terminal": "iterm",
+	"theme": "Soda Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false

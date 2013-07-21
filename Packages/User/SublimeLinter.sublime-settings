@@ -1,4 +1,6 @@
 {
+    "sublimelinter_popup_errors_on_save": true,
+    "sublimelinter_mark_style": "outline",
     "javascript_linter": "jshint",
     "jshint_options": {
         "camelcase": false,
@@ -6,9 +8,7 @@
         "regexdash": true,
         "browser": true,
         "wsh": true,
-        "trailing": true,
         "sub": true,
-        "laxcomma": true,
         "laxbreak": true,
         "browser": true
     },
