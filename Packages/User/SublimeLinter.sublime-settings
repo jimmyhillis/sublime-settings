@@ -3,16 +3,16 @@
     "sublimelinter_mark_style": "outline",
     "javascript_linter": "jshint",
     "jshint_options": {
-        "camelcase": false,
         "evil": true,
         "regexdash": true,
-        "browser": true,
         "wsh": true,
         "sub": true,
-        "laxbreak": true,
-        "browser": true
+        "browser": true,
+        "camelcase": true
     },
     "pep8_ignore": [
-        "E712"
+        "E712",
+        "E711"
     ]
 }
+
